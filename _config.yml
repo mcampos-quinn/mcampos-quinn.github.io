@@ -16,7 +16,7 @@
 title: Michael Campos-Quinn
 email: michaelcamposquinn at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  IMPORTANT THOUGHTS by Michael Campos-Quinn
+  IMPORTANT THOUGHTS by Michael Campos-Quinn about metadata, python, library stuff, audiovisual digital preservation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mcamposquinn
