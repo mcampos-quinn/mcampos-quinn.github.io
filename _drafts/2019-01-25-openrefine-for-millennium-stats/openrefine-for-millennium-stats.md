@@ -82,6 +82,12 @@ I am interested finding patterns in the 956 fields in my data that will match re
 
 `isNotNull(value.match(/.*((2017)(07|08|09|10|11|12)|(2018)(01|02|03|04|05|06|))(\d{2})(\ |\ \ )pfmcq\ M.*/))`
 
-which matches any record modified in any of the months of the fiscal year 2017-2018. The expression `isNotNull` returns either `True` or `False` so when I run this custom text facet on my `956` column I get many thousands of `False` results, and a smaller subset of `True` results, which is my total for the statistics that I need to report. 
+which matches any record modified in any of the months of the fiscal year 2017-2018. The regular expression I used here is a kind of brute-force approach that looks for one of the 12 possible combinations of 2017+month or 2018+month. More sophisticated approaches are possile (you can convert the date data into a specific `date` data type, for example), but I have found them less reliable in part because of the inconsistency of data exported from Millennium. 
 
-This kind of workaround is not ideal, for one thing because of how unreliable the data exports from Millemmium can be. 
+The expression `isNotNull` returns either `True` or `False` so when I run this custom text facet on my `956` column I get many thousands of `False` results, and a smaller subset of `True` results, which is my total for the statistics that I need to report. 
+
+That's kind of it... The rest of my statistics are gathered with a variety of similar regular expressions. I then just tally up the numbers and write them into my report.
+
+## Conclusion
+
+This kind of workaround is not ideal, for one thing because of how unreliable the data exports from Millennium can be. It is, however more reliable than trying to use regular expressions and 
