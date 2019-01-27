@@ -41,7 +41,7 @@ Rolls right off the tongue. Anyway, the reporting that I need to do is typically
 
 One useful part of Millennium is that you can export all the records in your CreateLists find set as a tab- or comma-delimited text file. Which means that I can export *all* of our records (we have thousands of records, not hundreds of thousands like Main...) and forget about Millennium as I process my neat text file somewhere else.
 
-***DIGRESSION I really wish that Millennium had an API like more modern ILS-es like the Ex Libris Alma system that also does stuff like export MARCXML. Sigh. /DIGRESSION*** 
+***\<DIGRESSION\> I really wish that Millennium had an API like more modern ILS-es like the Ex Libris Alma system that also does stuff like export MARCXML. Sigh. \</DIGRESSION\>*** 
 
 If you are not familiar with [OpenRefine](http://openrefine.org/) and yet you are reading this post, you should definitely get yourself a little familiar with it. It's an awesome tool for working with large batches of structured textual (and numerical?) data. There are insane things you can do with Linked Open Data, reconciliation against various ontologies, cleaning messy data, and... I find that it's a handy tool for my statistics gathering (among other things). I won't go into the process of setting up OpenRefine or opening a project, but I can say both are quite painless (especially on Mac) and there are demos/FAQ/etc. on the OpenRefine [github](https://github.com/OpenRefine/OpenRefine/wiki/Screencasts). Basically once you have it installed you just create a project, select a few options for things like which delimiter and text encoding to use (the defaults tend to be good/correct), and have at it within a few seconds.
 
@@ -49,16 +49,39 @@ If you are not familiar with [OpenRefine](http://openrefine.org/) and yet you ar
 
  I start my stats process with an export from Millennium that includes a row for every item with PFA as the owning branch. Again, I find that it's simpler and ultimately more useful to include ALL THE RECORDS in my export and forget about Millennium once I have my raw data. This export includes a set of fields that I have found are useful for the kind of analysis I do. This is the 956 field mentioned above (which is recorded on the bib record), the item record number, the item record call number, the item created date, and a few other bits and bobs.
 
-![open refine items](OR-items.png)
+<p style="text-align:center">
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/OR-items.png" alt="openrefine items" style="max-height:400px; "/><br>
+	<i>One row represents an item record in Millennium</i>
+</p>
 
-You can see that each item gets a row in the OpenRefine display. The magic will happen with the dropdown arrow at the top of each column. The key tool that I am interested in here is the 'Custom Text Facet... '
+You can see that each item gets a row in the OpenRefine display. The magic will happen with the dropdown arrow at the top of each column. We are interested in faceting the data in various columns so that we can retrieve subsets of our data. Behold the power of OpenRefine!
 
-<img src="custom-text-facet.png" alt="openrefine facet menu" width="400"/>
+<img src="" alt="" width="400"/>
+<p style="text-align:center">
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/text-facet.png" alt="openrefine facet menu" style="max-height:400px; "/><br>
+	<i>Simple text facet of the MATERIAL TYPE column</i>
+</p>
 
-Facets in OpenRefine are a way to view or select a subset of your data based on some characteristic of the values in a column. The simplest example is "Text facet," which takes the text values of every cell in a column and provides you with a grouping of each time a particular unique value is found. This is really helpful if you have many data points with a few possible values, but much less helpful if each of your values is unique (if you try to throw thousands of values at it, OpenRefine will complain and tell you to go away). For example, in my item record export I have about 25,000 rows, but the "Material Type" column is limited to the MARC values a/t/m/g/c/e/j/etc/etc defined [here](https://www.oclc.org/bibformats/en/fixedfield/type.html). For me it's simple since the vast majority of our collection is either "a" (print material) or "g" (projected medium, aka film or video). I can select "Text facet" and in the sidebar that comes up, click on "g" to view all the film records. Neat!
+Facets in OpenRefine are a way to view or select a subset of your data based on some characteristic of the values in a column. The simplest example is "Text facet," which takes the text values of every cell in a column and provides you with a grouping of each time a particular unique value is found. This is really helpful if you have many data points with a few possible values, but much less helpful if each of your values is unique (if you try to throw thousands of values at it, OpenRefine will complain and tell you to go away). For example, in my item record export I have about 25,000 rows, but the "MATERIAL TYPE" column is limited to the MARC values a/t/m/g/c/e/j/etc/etc defined [here](https://www.oclc.org/bibformats/en/fixedfield/type.html). For me it's simple since the vast majority of our collection is either "a" (print material) or "g" (projected medium, aka film or video). I can select "Text facet" and in the sidebar that comes up, click on "g" to view all the film records. Neat!
 
-<img src="text-facet.png" alt="openrefine facet menu" width="400"/>
+LOL at least that's how it's supposed to work. In the example above, you can see some bibliographic record numbers and some call numbers in this selection because Millennium doesn't *always* export records consistently (garbage in, garbage out). As far as I can tell if an item is attached to more than one bib record (for example, an item can be linked to a record for a compilation and to a record for the work cataloged as a monograph) it screws Millennium up when it tries to export them all.
 
-LOL at least that's how it's supposed to work. You can see some bib record numbers and some call numbers in this selection because Millennium doesn't *always* export records consistently. As far as I can tell if an item is attached to more than one bib record (for example, an item can be linked to a record for a compilation and to a record for the work cataloged as a monograph) it screws Millennium up when it tries to export them all.
+## Custom text facets
 
-Custom text facets on the other hand let you control what you are looking for rather than the blunt instrument of "show me all the values."
+Custom text facets on the other hand let you control what you are looking for rather than the blunt instrument of "show me all the values." Under the `Facet` submenu you can choose 'Custom Text Facet... '
+
+<p style="text-align:center">
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/custom-text-facet.png" alt="openrefine facet menu" style="max-height:400px; "/><br>
+</p>
+
+From the menu that appears you can write an expression that will facet all the values in your column based on whatever details suit your needs.
+
+There is a special "expression language" for OpenRefine called GREL (Google Refine Expression Language, a holdover from when OpenRefine was a Google-sponsored project) that allows you to construct expressions that manipulate, analyze, or transform the data in a cell or a group of cells such as a column or row. Importantly for my use case, it also allows you to use [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) to match or identify patterns that you want to isolate in your data. 
+
+I am interested finding patterns in the 956 fields in my data that will match records created or modified over a given time period. For example, records from calendar year 2018 will have a `956` delimeter `a` between `$a20180101` and `$a20181231`, while fiscal 2017-2018 will be between `$a20170701` and `$a20180630`. This allows me to do things in GREL like 
+
+`isNotNull(value.match(/.*((2017)(07|08|09|10|11|12)|(2018)(01|02|03|04|05|06|))(\d{2})(\ |\ \ )pfmcq\ M.*/))`
+
+which matches any record modified in any of the months of the fiscal year 2017-2018. The expression `isNotNull` returns either `True` or `False` so when I run this custom text facet on my `956` column I get many thousands of `False` results, and a smaller subset of `True` results, which is my total for the statistics that I need to report. 
+
+This kind of workaround is not ideal, for one thing because of how unreliable the data exports from Millemmium can be. 
