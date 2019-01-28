@@ -26,7 +26,7 @@ Basically it helps you construct a (potentially very long) Boolean search to mat
 
 ## Which is where OpenRefine comes in
 
-One really neat suggestion that came from the UCB Main Library cataloging department is that all staff should use a 956 field to record a bit of data for statistics each time that a record is created or modified in any meaningful way. This is done in a structured and regular way to provide a more reasonable means to then gather statistics when the time comes. Subfield $a includes a structured date element, $b includes the cataloger's initial code, and $c includes a code from a list that includes things like "CO" for original cataloging, "CCS" for copy cataloging with subject analysis, "MR" for regular maintenance, and "MA" for advanced maintenance.
+One really key suggestion that came from the UCB Main Library cataloging department is that all staff should use a 956 field to record a bit of data for statistics each time that a record is created or modified in any meaningful way. This is done in a structured and regular way to provide a more reasonable means to then gather statistics when the time comes. Subfield $a includes a structured date element, $b includes the cataloger's initial code, and $c includes a code from a list that includes things like "CO" for original cataloging, "CCS" for copy cataloging with subject analysis, "MR" for regular maintenance, and "MA" for advanced maintenance.
 
 <p style="text-align:center">
 	<img src="/images/2019-01-25-openrefine-for-millennium-stats/956-CO.png" alt="956 field example" style="max-height:400px; "/><br>
@@ -47,7 +47,7 @@ If you are not familiar with [OpenRefine](http://openrefine.org/) and yet you ar
 
  *An important conceptual sidenote: Millennium has two types of records that are relevant here: item records that pertain to a single copy of a book or a film print, and bibliographic records that include the static information related to (in principle) every copy of a given edition of a work. Item records are attached to bib records and are more or less "mobile"--you can have a bib record with no items, but not vice versa. Bib records are created in OCLC as "master records" including things like authors/directors (MARC 100/700/etc. fields), subjects (600/650/etc.), and physical carrier information (3xx fields).*
 
- I start my stats process with an export from Millennium that includes a row for every item with PFA as the owning branch. Again, I find that it's simpler and ultimately more useful to include ALL THE RECORDS in my export and forget about Millennium once I have my raw data. This export includes a set of fields that I have found are useful for the kind of analysis I do. This is the 956 field mentioned above (which is recorded on the bib record), the item record number, the item record call number, the item created date, and a few other bits and bobs.
+ I start my stats process with an export from Millennium that includes a row for every item with PFA as the owning branch. Again, I find that it's simpler and ultimately more useful to include ALL THE RECORDS in my export and forget about Millennium once I have my raw data. This export includes a set of fields that I have found are useful for the kind of analysis I do--the 956 field mentioned above (which is recorded on the bib record), the item record number, the item record call number, the item created date, and a few other bits and bobs.
 
 <p style="text-align:center">
 	<img src="/images/2019-01-25-openrefine-for-millennium-stats/OR-items.png" alt="openrefine items" style="max-height:400px; "/><br>
@@ -86,8 +86,16 @@ which matches any record modified in any of the months of the fiscal year 2017-2
 
 The expression `isNotNull` returns either `True` or `False` so when I run this custom text facet on my `956` column I get many thousands of `False` results, and a smaller subset of `True` results, which is my total for the statistics that I need to report. 
 
+<p style="text-align:center">
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/OR-boolean-facets.png" alt="openrefine boolean facets" style="max-height:250px; "/><br>
+</p>
+
 That's kind of it... The rest of my statistics are gathered with a variety of similar regular expressions. I then just tally up the numbers and write them into my report.
 
 ## Conclusion
 
-This kind of workaround is not ideal, for one thing because of how unreliable the data exports from Millennium can be. It is, however more reliable than trying to use regular expressions and 
+This kind of workaround is not ideal, for one thing because of how unreliable the data exports from Millennium can be. It is, however more reliable than trying to use regular expressions and identify the correct records in Millennium directly. To be fair, from what I understand the systems librarians in the Main library use CreateLists and maybe some Perl scripts to compile statistics for Main and some of the subject libraries. I still don't know exactly what they do, but if I find out I will post it here!
+
+### Note:
+
+*I wrote the first draft this post a couple of months ago and was still using OpenRefine version 2 point something. I revisted the topic recently and now I have version 3.1. There's a [bug](https://github.com/OpenRefine/OpenRefine/issues/1662#issuecomment-452223605) in this version having to do with data types (actually it's less of a bug than a change in how OR deals with different types of data) which won't give you the `True`/`False` results I mention above, but instead it will just say `(boolean)`. Apparently there will be a fix in the next version but as of January 2019 you can just add `.toString()` to the end of the GREL expression above and the raw `True`/`False` Boolean data will be converted to the actual text "True" or "False" and the text facet will work as pictured here. Meh.*
