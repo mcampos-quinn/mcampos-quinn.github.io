@@ -11,14 +11,14 @@ tags: cataloging statistics openrefine millennium iii innovative interfaces
 The PFA library (“the UC Berkeley Art Museum and Pacific Film Archive Film Library and Study Center” aka TUCBAMAPFAFLASC) is an affiliated library in the UC Berkeley library system, which means that we use Millennium as our Integrated Library System (ILS) and catalog into UCB's [OskiCat](http://oskicat.berkeley.edu/). This is both great and really terrible since Millennium has an interface and user functionality that are stuck in 1997:
 
 <p style="text-align:center">
-	<img src="/images/2019-01-25-openrefine-for-millennium-stats/millennium-hello.png" alt="millennium screenshot" style="max-height:400px; "/><br>
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/millennium-screen.png" alt="millennium screenshot" style="max-height:400px; "/><br>
 	<i>The UI of a workhorse. An ugly, ugly workhorse.</i>
 </p>
 
 The main way that we interact with our records in bulk is through the "Create Lists" function within Millennium, which is a really crazy means of gathering records according to a pretty limited set of data points:
 
 <p style="text-align:center">
-	<img src="/images/2019-01-25-openrefine-for-millennium-stats/create-lists.png" alt="create lists" style="max-height:400px; "/><br>
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/create-lists-search.png" alt="create lists" style="max-height:400px; "/><br>
 	<i>CreateLists is terrible</i>
 </p>
 
@@ -29,7 +29,7 @@ Basically it helps you construct a (potentially very long) Boolean search to mat
 One really key suggestion that came from the UCB Main Library cataloging department is that all staff should use a 956 field to record a bit of data for statistics each time that a record is created or modified in any meaningful way. This is done in a structured and regular way to provide a more reasonable means to then gather statistics when the time comes. Subfield $a includes a structured date element, $b includes the cataloger's initial code, and $c includes a code from a list that includes things like "CO" for original cataloging, "CCS" for copy cataloging with subject analysis, "MR" for regular maintenance, and "MA" for advanced maintenance.
 
 <p style="text-align:center">
-	<img src="/images/2019-01-25-openrefine-for-millennium-stats/956-CO.png" alt="956 field example" style="max-height:400px; "/><br>
+	<img src="/images/2019-01-25-openrefine-for-millennium-stats/956-example.png" alt="956 field example" style="max-height:400px; "/><br>
 	<i>Example of a 956 stats entry on a bibliographic record</i>
 </p>
 
