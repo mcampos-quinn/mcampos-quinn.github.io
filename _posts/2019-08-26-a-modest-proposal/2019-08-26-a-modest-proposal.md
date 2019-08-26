@@ -7,10 +7,7 @@ tags: 	programming events filmmakers
 
 # Proposing a New Mini Artist Residency at the BAMPFA Film Library
 
-<p style="text-align:center">
-	<img src="/images/2019-08-26-a-modest-proposal/bfm.png" alt="bill murray at the oscars 1976" style="max-height:400px; "/><br>
-	<i>tooooooot</i>
-</p>
+![bill murray at the oscars 1976](/images/2019-08-26-a-modest-proposal/bfm.png)
 
 ## SUMMARY
 
