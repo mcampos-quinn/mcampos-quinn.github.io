@@ -27,7 +27,7 @@ Some of the formats these programs could take could include:
 
 <p style="text-align:center">
 	<img src="/images/2019-08-26-a-modest-proposal/zipping.jpg" alt="hand-drawn soundtrack instructions" style="max-height:400px; "/><br>
-	<i>Zipping or ripping</i>
+	<i>Zipping or ripping. From Norman McLaren's how-to guide.</i>
 </p>
 
 The program in general can be seen as a kind of intellectual pressure-cooker, but with stakes that are not as high as would be for a formal exhibition. The informal setting for the public programming puts the focus on the resident’s process of engagement rather than on the "product" at the end. That is, the *new creative work* that is presented at the conclusion of the residency is what they will work towards, but the most interesting element of the presentation will be the artist’s scholarly and/or aesthetic engagement with the materials in our collections. 
@@ -88,4 +88,8 @@ Some of the people who have contributed to the plan so far by indulging me in ra
 
 We're really hoping to get more feedback and develop it for real, and also if you happen to have $5,000 lying around you could donate we will start the pilot programs ASAP! :)
 
-*ALL IMAGES COURTESY BAMPFA.*
+<i>ALL IMAGES COURTESY BAMPFA. All except the Norman McLaren excerpt from:</i>
+
+<i>__Top Value Television Papers,__ [PFA--MSS--008](https://oac.cdlib.org/findaid/ark:/13030/c87m0fns/), University of California, Berkeley Art Museum and Pacific Film Archive. [n.b. this will soon be available digitally via the Online Archive of California thanks to a generous grant from the National Endowment for the Humanities.]</i>
+
+<i>McLaren, N. (1984). [Handmade sound track for beginners](http://oskicat.berkeley.edu/record=b24180681~S1): making sound track directly on film (35mm or 16mm) without the use of a camera or recording apparatus, and as used in the films 'Rhythmetic' & 'Mosaic'.</i>
