@@ -5,7 +5,7 @@ date:   2019-08-26
 tags: 	programming events filmmakers
 ---
 
-![bill murray at the oscars 1976](/images/2019-08-26-a-modest-proposal/bfm.png)
+![bill murray at the oscars 1976](/images/2019-08-26-a-modest-proposal/bfm.jpg)
 
 # Proposing a New Mini Artist Residency at the BAMPFA Film Library
 
