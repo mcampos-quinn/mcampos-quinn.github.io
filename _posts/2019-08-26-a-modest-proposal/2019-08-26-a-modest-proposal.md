@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Modest Proposal: A Mini Artst Residency at the BAMPFA Library"
+title:  "A Modest Proposal: A Mini Artist Residency at the BAMPFA Library"
 date:   2019-08-26
 tags: 	programming events filmmakers
 ---
@@ -15,7 +15,7 @@ The BAMPFA Film Library and Study Center is proposing a new series of programmin
 
 ## PROGRAM EXAMPLES
 
-Some of the formats these programs could take could include: 
+Some of the formats these programs could take could include:
 
 * A reading of poetry written in response to correspondence in the Sara Kathryn Arledge paper collection
 * Demonstration of a graphic “family tree” of Bay Area experimental filmmakers found in the Radical Light collections
@@ -23,14 +23,14 @@ Some of the formats these programs could take could include:
 * An inflatable-making workshop following instructions in the Ant Farm Inflate-o-cookbook
 * A lecture relating scholarly research into the formation and impact of Serious Business Company
 * A zine-making workshop in tribute to some of the filmmakers represented in the collection, using images from our stills, frame grabs of videos, etc.
-* An oral history interview conducted in front of the audience with one of the Bay Area experimental filmmakers or film culture stalwarts who are still active and are represented in our collections 
+* An oral history interview conducted in front of the audience with one of the Bay Area experimental filmmakers or film culture stalwarts who are still active and are represented in our collections
 
 <p style="text-align:center">
 	<img src="/images/2019-08-26-a-modest-proposal/zipping.jpg" alt="hand-drawn soundtrack instructions" style="max-height:400px; "/><br>
 	<i>Zipping or ripping. From Norman McLaren's how-to guide.</i>
 </p>
 
-The program in general can be seen as a kind of intellectual pressure-cooker, but with stakes that are not as high as would be for a formal exhibition. The informal setting for the public programming puts the focus on the resident’s process of engagement rather than on the "product" at the end. That is, the *new creative work* that is presented at the conclusion of the residency is what they will work towards, but the most interesting element of the presentation will be the artist’s scholarly and/or aesthetic engagement with the materials in our collections. 
+The program in general can be seen as a kind of intellectual pressure-cooker, but with stakes that are not as high as would be for a formal exhibition. The informal setting for the public programming puts the focus on the resident’s process of engagement rather than on the "product" at the end. That is, the *new creative work* that is presented at the conclusion of the residency is what they will work towards, but the most interesting element of the presentation will be the artist’s scholarly and/or aesthetic engagement with the materials in our collections.
 
 There could also be an iterative component to the series. For example, a filmmaker who leads a workshop on 16mm hand-drawn soundtracks might inform the following resident who digitizes the optical soundtracks and uses the audio to score remixed silent films from the collection. Or perhaps a scholar could prepare a lecture outlining the history of Bay Area women in experimental cinema, which is taken up in the next round by a filmmaker who narrates her own reflections on the topic over selections from Chick Strand, Gunvor Nelson, and other local filmmakers.
 
@@ -40,9 +40,9 @@ There could also be an iterative component to the series. For example, a filmmak
 </p>
 
 ## PROGRAM DETAILS & LOGISTICS
-Initially, the Library will propose 2-3 test programs as a pilot for the series. Once in full swing, though, we envision inviting a resident every 2-3 months, so 4-6 invitees per year. 
+Initially, the Library will propose 2-3 test programs as a pilot for the series. Once in full swing, though, we envision inviting a resident every 2-3 months, so 4-6 invitees per year.
 
-The residency will follow a two-month cycle: one month for research and to come up with a program idea, then a month to publicize and prepare for the event. We will announce the residents who have been invited along with the date for their public presentation well in advance, along with a bio and description of their art or scholarly practice. Because of the nature of this program, though, the exact details of their presentation will remain unknown until each resident has actually dived in and engaged with the collection. 
+The residency will follow a two-month cycle: one month for research and to come up with a program idea, then a month to publicize and prepare for the event. We will announce the residents who have been invited along with the date for their public presentation well in advance, along with a bio and description of their art or scholarly practice. Because of the nature of this program, though, the exact details of their presentation will remain unknown until each resident has actually dived in and engaged with the collection.
 
 <p style="text-align:center">
 	<img src="/images/2019-08-26-a-modest-proposal/shrinky.jpg" alt="TVTV on map of USA" style="max-height:400px; "/><br>
@@ -51,11 +51,11 @@ The residency will follow a two-month cycle: one month for research and to come 
 
 We anticipate that in the first month the resident will come to BAMPFA, look through the collections, immerse themselves in a set of works or paper records, plan for their public event, and be ready to announce and help publicize the event. The event will take place at the end of the second month, which can be spent preparing for the event and publicizing it via social media and BAMPFA channels.
 
-While at BAMPFA, residents will be presented with inventories and descriptions of the paper holdings, as well as an overview of the film and video collection. Once the invitee has struck upon a facet of the collection that they find engaging, they will be offered 2-3 visits to the vault(s) (ideally timed with previously scheduled staff trips to Regatta) in order to browse the shelves and potentially allow serendipity to work in their favor. Over the course of the next two weeks, the resident will have access to the library and any equipment at BAMPFA that may help their research or programming. 
+While at BAMPFA, residents will be presented with inventories and descriptions of the paper holdings, as well as an overview of the film and video collection. Once the invitee has struck upon a facet of the collection that they find engaging, they will be offered 2-3 visits to the vault(s) (ideally timed with previously scheduled staff trips to Regatta) in order to browse the shelves and potentially allow serendipity to work in their favor. Over the course of the next two weeks, the resident will have access to the library and any equipment at BAMPFA that may help their research or programming.
 
-During the second month, the program details should be mapped out and ready to be publicized. The resident will continue to have access to the library and reasonable accomodations will be made to afford space and equipment to prepare for the event. BAMPFA Marketing & Communications will publicize the event through bampfa.org and social media platforms. 
+During the second month, the program details should be mapped out and ready to be publicized. The resident will continue to have access to the library and reasonable accomodations will be made to afford space and equipment to prepare for the event. BAMPFA Marketing & Communications will publicize the event through bampfa.org and social media platforms.
 
-The event itself will take place either in the Koret Reading Room, the Art Lab, or another available space at BAMPFA or nearby. If the budget allows, BAMPFA Digital Media will be hired to document the event, and the documentation will be available online and archived by the Library. 
+The event itself will take place either in the Koret Reading Room, the Art Lab, or another available space at BAMPFA or nearby. If the budget allows, BAMPFA Digital Media will be hired to document the event, and the documentation will be available online and archived by the Library.
 
 <p style="text-align:center">
 	<img src="/images/2019-08-26-a-modest-proposal/portapak.png" alt="TVTV filming the oscars" style="max-height:400px; "/><br>
