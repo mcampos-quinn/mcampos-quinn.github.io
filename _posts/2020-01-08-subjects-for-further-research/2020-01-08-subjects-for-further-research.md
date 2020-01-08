@@ -16,7 +16,7 @@ The BAMPFA Film Library and Study Center has recently done a bit of navel gazing
 One of the most exciting outcomes of this has been our first baby steps into public programming, the first of which took place on December 8, 2019. It was the pilot program of the program I [proposed]({% link _posts/2019-08-26-a-modest-proposal/2019-08-26-a-modest-proposal.md %})  in Summer 2019, which I named *Subjects for Further Research* (with guidance from the inimitable cinephile [Max Goldberg](https://mgoldberg.net/)). This is a “micro-residency” in which a filmmaker is invited to spend a predetermined amount of time in the PFA collections, and at the end of the period, present their research in the form of a *new creative work* (thanks [Charlie Macquarie](http://www.placetalks.online/)), as a public workshop, lecture, performance, etc.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/eye.jpg" alt="hand painted film" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/eye.JPG" alt="hand painted film" style="max-height:400px; "/><br>
 	<i>Hand-painted film by Alix Blevins</i>
 </p>
 
@@ -27,14 +27,14 @@ These days class screenings are an extreme rarity, and people watching moving im
 Part of our drive to update what it is we do with our collections, and how we do it, stems from a survival instinct to ensure that we don’t suffocate ourselves in offering the same public services in 2020 that we championed in 1997, or 2007 for that matter. Or at least that our services remain valuable to our various stakeholders, and that we don’t waste resources on things like binding journals that are ubiquitously available on campus or online, or digitizing ephemera without a clear access plan for the digital objects. On the other hand, screening films on celluloid for researchers is arguably a much rarer and valuable service today than it was in 1990, and we are among a handful of institutions in the area capable of offering access to film, and certainly the only one with as rich a catalog. In other words, we need to adapt to new expectations from researchers, as well as new modes of research, in order to advocate for the continued survival of our collection, and for our core mission of supporting critical thought on cinema.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/wobbles.jpg" alt="hand painted film" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/wobbles.JPG" alt="hand painted film" style="max-height:400px; "/><br>
 	<i>Hand-painted film by Alix Blevins</i>
 </p>
 
 With *Subjects for Further Research* we are now able to call for a new type of collection use that extends the possibilities of an archival collection to actively seek out creative use of our holdings. The research process itself can hopefully be a part of a visiting artist’s creative practice, and in the best cases would be an engine for serendipity that brings unexpected insights about our collection, or perhaps surprising links between elements of the collection and the resident’s own experience and work. I would argue this positions art as a library public service, extending the traditional services of reference, collections stewardship, and advocacy for ethical access to knowledge. To clarify, our service is the *facilitation* of presenting new creative works and decidedly not the works themselves. Inviting artists to explore our collection presents an opportunity for the light shed by their inquiry to spill out into the local community, with the aim of illuminating a path towards new ways of seeing our corner of cinema.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/alix.jpg" alt="alix blevins" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/alix.JPG" alt="alix blevins" style="max-height:400px; "/><br>
 	<i>Alix preparing film loops</i>
 </p>
 
@@ -45,21 +45,21 @@ The first resident that we invited to participate in the program was [Alix Blevi
 Alix and I began with a trip to the library’s offsite storage where we hold our archival collections, photo and poster collections, less-used books, and a lot more (it’s across the hall from the film vault too…). I showed her around a bit and directed her to some boxes I thought might be of interest, but mostly let her wander and gravitate to whatever struck her interest. Eventually she made her way to a small collection of Bay Area filmmakers’ papers, including some filmmakers who were not specifically based in the Bay Area. From that collection, she narrowed her focus to visual film scores, and in particular the notes [Paul Sharits](https://www.artforum.com/print/201502/paul-sharits-49790) made in preparation for making films and as a sketchpad for potential films. For Alix, this was a jumping off point to consider Sharits’s notes as “gestures” towards films that may or may not ever exist, which led her to create a series of 16mm film loops as a gestural echo of this process.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/loops.jpg" alt="film loops" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/loops.JPG" alt="film loops" style="max-height:400px; "/><br>
 	<i>Loops waiting to be projected</i>
 </p>
 
 For the event itself, Alix and her collaborator Colin Brant built a pair of screens that would show one loop each at a time, and a third loop was to be projected onto the wall behind and between the screens; at any given moment there would be three loops playing simultaneously. The loops consisted of both newly-shot film and new hand-painted film. The screens were coated with reflective glass beads and painted as the inverse of each other--one was red with a white center circle, and the other was white with a red center circle. She also built a stand that could house the loops waiting to be run, and the setup of three projectors, two screens, and the loop stand formed the performance environment.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/notes.jpg" alt="paul sharits papers" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/notes.JPG" alt="paul sharits papers" style="max-height:400px; "/><br>
 	<i>Paul Sharits collection for perusal</i>
 </p>
 
 Crucially, the back border of this environment was formed by a long table (with a desk lamp), on which was spread a selection of papers from the Paul Sharits collection. Attendees could study the same materials from our archives that inspired Alix to create her work, and for some (particularly the children in attendance!) this was probably the first time handling archival papers. This is one of the more exciting elements of how the event turned out, and was an idea that Alix proposed as she was fleshing out her presentation idea. This should maybe be encouraged in future residency shows, since it’s one of the most exciting live-action uses of archival collections I’ve seen.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/hand-notes.jpg" alt="paul sharits papers" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/hand-notes.JPG" alt="paul sharits papers" style="max-height:400px; "/><br>
 	<i>Archive->Cinema->Archive</i>
 </p>
 
@@ -83,7 +83,7 @@ What I’d like to improve:
 * Outreach: I would like to take more time to reach out to potentially interested residents. Alix was perfectly situated already, but there is the rest of the Bay Area (and beyond) to present the idea to.
 
 <p style="text-align:center">
-	<img src="/images/2020-01-08-subjects-for-further-research/loops2.jpg" alt="film loops hanging on a rack" style="max-height:400px; "/><br>
+	<img src="/images/2020-01-08-subjects-for-further-research/loops2.JPG" alt="film loops hanging on a rack" style="max-height:400px; "/><br>
 	<i>Loop loop loop loop</i>
 </p>
 
