@@ -34,6 +34,11 @@ Of course this includes the communities of color who have been pushed out by ris
 
 Near to my heart was the [demise](https://www.eastbayexpress.com/oakland/21-grands-grand-gesture/Content?oid=2172028) of the venerable 21 Grand, where my little mind was blown repeatedly by experimental music, films, punk stuff, etc. This element of the ever-churning Machinery of the New of course took a real shit-dive in the wake of the [Ghost Ship](https://en.wikipedia.org/wiki/Ghost_Ship_warehouse_fire) fire and ensuing clampdown on alternative spaces (read: cheap real estate for new condos).
 
+<p style="text-align:center">
+	<img src="/images/2020-01-27-telegraph/telegraph_04.jpg" alt="2519 telegraph" style="max-height:400px; "/><br>
+	<i>Not totally sure what's here right now. Some gnarly construction according to Google Street View... Econo Jam Records was here for a sec?</i>
+</p>
+
 Anyway, here's the film. Let's think about The West, sunsets, endings, beginnings, reflections, and exclusions.
 
 <p style="text-align:center">
