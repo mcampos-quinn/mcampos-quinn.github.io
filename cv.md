@@ -87,7 +87,6 @@ Here's a bit about my professional-ish history. There's a detailed PDF version [
 *2009-2013*
 
 <img src="/images/general/fingerling.jpg" width="250">
-<!-- ![](/images/general/fingerling.jpg) -->
 
 ### Station volunteer
 *KALX 90.7 FM, Berkeley, CA*
