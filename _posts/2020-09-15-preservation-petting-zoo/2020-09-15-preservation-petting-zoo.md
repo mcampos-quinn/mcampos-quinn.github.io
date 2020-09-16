@@ -4,6 +4,7 @@ title:  "Video Preservation Petting Zoo"
 date:   2020-09-15
 tags: video preservation bampfa bavc
 vimeoID: 458343827
+image: /images/2020-09-15-preservation-petting-zoo/gen-loss.jpg
 ---
 
 ![four monitors showing vhs generation loss](/images/2020-09-15-preservation-petting-zoo/gen-loss.jpg)
@@ -23,7 +24,7 @@ I was looking over some old files recently and realized that I had never done mu
 
 The result was a couple hours of fun hanging out with nerds, hearing Morgan talk about his video preservation work, and looking at some awesome tapes. We had a table set up with a whole slew of equipment people could poke at: there was Morgan's analog video synth making wacky patterns, a stripped-down digitization setup running `vrecord` on an actual VHS tape, and a small tower of monitors playing back four generations of VHS signal loss. We also had a second projector running a loop of cool video art excerpts from BAMPFA's collection (selected by Annie Schweikert and Jon Shibata). Rad!
 
-Due to various mishaps and misplannings, I managed not to get a good audio recording of the event (including Morgan's spiels about PAP and video preservation in general), but we got a static camera shot of the whole thing, which should give a flavor of what went down. Props to Morgan also for the drone zone [tunes](https://glowingdagger.bandcamp.com/album/of-shores) in the video!
+Due to various mishaps and misplannings, I managed not to get a good audio recording of the event (including Morgan's spiels about PAP and video preservation in general), but we got a static camera shot of the whole thing, which should give a flavor of what went down. Props to Morgan also for the drone zone [tunes](https://glowingdagger.bandcamp.com/album/of-shores) in the video! It's also kind of wild to see people hanging out and chatting inside in the sweet innocent times pre-COVID.
 
 We're (or at least I am) hoping that we can do something similar next year, and maybe make it a tradition! At the very least I hope this is the beginning of more collabs between BAMPFA and BAVC. Thanks Morgan!
 
