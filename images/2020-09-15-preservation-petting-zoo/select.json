@@ -1,0 +1,13 @@
+{
+  "responseHeader":{
+    "status":400,
+    "QTime":0,
+    "params":{
+      "q":"genre:*short*",
+      "debug":"query"}},
+  "error":{
+    "metadata":[
+      "error-class","org.apache.solr.common.SolrException",
+      "root-error-class","org.apache.solr.common.SolrException"],
+    "msg":"undefined field genre",
+    "code":400}}
