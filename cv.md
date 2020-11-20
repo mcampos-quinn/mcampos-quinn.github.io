@@ -116,6 +116,13 @@ Here's a bit about my professional-ish history. There's a detailed PDF version [
 ---
 
 ## SELECTED PROFESSIONAL DEVELOPMENT & PRESENTATIONS
+
+**Association of Moving Image Archivists, Annual Conference, 2020** (virtual poster presentation) "Preserving Top Value Television"
+
+**Media Description and Access, UCLA MLIS graduate course, Fall 2020** (guest speaker)
+
+**Film Exhibition and Curating, SF State University undergraduate film course, Fall 2020** (guest speaker)
+
 **All Together Now: Time-Based Media Art and Collaborative Stewardship Colloquium, LACMA, 2020** (presenting, postponed due to COVID-19)
 
 **Time-based Media Panel, Registrar's Committee (Western Region), 2020** (panel presenter)
