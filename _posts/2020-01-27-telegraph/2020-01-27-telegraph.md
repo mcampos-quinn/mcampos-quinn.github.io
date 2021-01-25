@@ -40,8 +40,8 @@ Near to my heart was the [demise](https://www.eastbayexpress.com/oakland/21-gran
 	<i>Not totally sure what's here right now. Some gnarly construction according to Google Street View... Econo Jam Records was here for a sec?</i>
 </p>
 
-Anyway, here's the film. Let's think about The West, sunsets, endings, beginnings, reflections, and exclusions.
+<!-- Anyway, here's the film. Let's think about The West, sunsets, endings, beginnings, reflections, and exclusions.
 
 <p style="text-align:center">
 	{% include vimeoPlayer.html id=page.vimeoID %}<br>
-</p>
+</p> -->

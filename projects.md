@@ -42,7 +42,7 @@ I've been shooting [super8](https://vimeo.com/392847863) and [16mm](https://vime
 
 ![succulents](/images/projects/succulents.gif)
 
-That isn't entirely how it has worked out so far, but I think it's getting much more interesting. I have spent a huge amount of time at the garden (I used to ride my bike up to it a few times a week for lunch), so I feel intimately familiar with the grounds, the collection, and some of the horticulturists. I'm especially interested now in the human labor involved in producing multitudinous immersive "natures" that each lay claim to representing a particular biome. The frame grab below is from a pair of Ohlone grinding stones on display, a signifier of a different kind of labor performed on the environment that is now the garden, and part of a set of local Native American tools and artifacts on display.
+That isn't entirely how it has worked out so far.
 
 [![link to garden film](/images/projects/grinding.png)](https://vimeo.com/397312531)
 
