@@ -20,13 +20,13 @@ The only real output to come from this period was a film I made in 2006 with the
 	<i>A palm that's probably still there, at 52nd St. Oakland</i>
 </p>
 
-At this point, in 2020, the speculation has paid off for investors who picked apart Oakland after the 2008 recession and luxury high rise after condo after beergarden continue to sprout like the fruit of some hideous capitalist fungus (yeesh). Anyway, the tech invasion over the last decade has ramped up the speed of Telegraph transitioning into a zone for a certain class of yuppie--liberal (when it suits them), foodie (when it's trendy), #veryonline, etc. etc.--to the exclusion of those who had made communities here in the preceding decades.
+At this point, in 2020, the speculation has paid off for investors who picked apart Oakland after the 2008 recession and luxury high rise after condo after beergarden continue to sprout like the fruit of some hideous capitalist fungus (yeesh). Anyway, the tech invasion over the last decade has ramped up the speed of Telegraph transitioning into a zone for a certain class of yuppie, to the exclusion of those who had made communities here in the preceding decades.
 
 <p style="text-align:center">
 	<img src="/images/2020-01-27-telegraph/telegraph_12.jpg" alt="telegraph in Oakland" style="max-height:400px; "/><br>
 </p>
 
-Of course this includes the communities of color who have been pushed out by rising rents and home prices, as well as the (mostly white) artist communities that found a hub along Telegraph in the 90s and 2000s. The [Oakland Art Murmur](https://en.wikipedia.org/wiki/Art_Murmur) that started around a cluster of galleries and artist-run spaces on or near Telegraph and 24th St. has morphed into a phenomenon that is totally unrecognizable, if totally commodifiable.
+Of course this includes the communities of color who have been pushed out by rising rents and home prices, as well as the (mostly white?) artist communities that found a hub along Telegraph in the 90s and 2000s. The [Oakland Art Murmur](https://en.wikipedia.org/wiki/Art_Murmur) that started around a cluster of galleries and artist-run spaces on or near Telegraph and 24th St. has morphed into a phenomenon that is totally unrecognizable, if totally commodifiable.
 
 <p style="text-align:center">
 	<img src="/images/2020-01-27-telegraph/telegraph_11.jpg" alt="telegraph at 23rd street" style="max-height:400px; "/><br>
@@ -40,8 +40,8 @@ Near to my heart was the [demise](https://www.eastbayexpress.com/oakland/21-gran
 	<i>Not totally sure what's here right now. Some gnarly construction according to Google Street View... Econo Jam Records was here for a sec?</i>
 </p>
 
-<!-- Anyway, here's the film. Let's think about The West, sunsets, endings, beginnings, reflections, and exclusions.
+Anyway, here's the film. Let's think about The West, sunsets, endings, beginnings, reflections, and exclusions.
 
 <p style="text-align:center">
 	{% include vimeoPlayer.html id=page.vimeoID %}<br>
-</p> -->
+</p>
