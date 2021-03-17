@@ -9,9 +9,9 @@ Here's a bit about my professional history. There's a more detailed PDF version 
 
 ## SUMMARY OF SKILLS
 * Initiating and implementing innovative projects in metadata use and publication, from Library, Collection Management, and Digital Asset Management system migrations; to database creation and maintenance; to REST API scripting, data analysis, and Linked Data projects.
-* Experience in digital asset management including in-house and vendor digitization, and extensive work in digital preservation, including building digital preseravtion infrastructure for audiovisual holdings.
-* Experience creating, managing, and maintaining collections metadata in CollectionSpace and many other systems: archival description, MARC cataloging, art collection schemas, audiovisual schemas, and many special collections oriented vocabularies and data structures.
-* Experience handling, repairing, inspecting, digitizing and cataloging archival audiovisual materials in most formats of film, analog video, and born-digital AV.
+* Digital asset management including in-house and vendor digitization, and extensive work in digital preservation, including building digital preseravtion infrastructure for audiovisual holdings.
+* Creating, managing, and maintaining collections metadata in CollectionSpace and many other systems: archival description, MARC cataloging, art collection schemas, audiovisual schemas, and many special collections oriented vocabularies and data structures.
+* Handling, repairing, inspecting, digitizing and cataloging archival audiovisual materials in most formats of film, analog video, and born-digital AV.
 
 ---
 
