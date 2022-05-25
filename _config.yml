@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Michael Campos-Quinn
-email: michaelcamposquinn at gmail dot com
+title: M Campos-Quinn
+# email: michaelcamposquinn at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  IMPORTANT THOUGHTS by Michael Campos-Quinn about metadata, python, library stuff, audiovisual digital preservation
+  M Campos-Quinn talks about metadata, python, library stuff, audiovisual digital preservation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mcampos-quinn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mcamposquinn
