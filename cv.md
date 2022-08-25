@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-Here's a bit about my professional history. There's a more detailed PDF version [here](/assets/mcq.pdf)
+Here's a bit about my professional history :)
 
 ---
 
@@ -32,27 +32,27 @@ Here's a bit about my professional history. There's a more detailed PDF version 
 ## PROFESSIONAL HISTORY
 
 ### Director of Library Special Projects
-*UC Berkeley Art Museum & Pacific Film Archive Film Library and Study Center*
+*UC Berkeley Art Museum & Pacific Film Archive, Film Library and Study Center*
 <br>
 *January 2020 - present*
 
 ### Interim Director
-*UC Berkeley Art Museum & Pacific Film Archive Film Library and Study Center*
+*UC Berkeley Art Museum & Pacific Film Archive, Film Library and Study Center*
 <br>
 *July 2019 - January 2020*
 
 ### Metadata & Digital Asset Manager
-*UC Berkeley Art Museum & Pacific Film Archive*
+*UC Berkeley Art Museum & Pacific Film Archive, Film Library and Study Center*
 <br>
 *2016 - 2020*
 
 ### Cataloger & Indexer
-*UC Berkeley Art Museum & Pacific Film Archive*
+*UC Berkeley Art Museum & Pacific Film Archive, Film Library and Study Center*
 <br>
 *2013 - 2016*
 
 ### Film Collection Assistant
-*UC Berkeley Art Museum & Pacific Film Archive*
+*UC Berkeley Art Museum & Pacific Film Archive, Film Collection*
 <br>
 *2011 - 2012*
 
@@ -70,6 +70,16 @@ Here's a bit about my professional history. There's a more detailed PDF version 
 ---
 
 ## SELECTED VOLUNTEER EXPERIENCE
+
+### Board of Directors
+*San Francisco Cinematheque*
+<br>
+*2021-present*
+
+### *Treasures from the Film Archives* Task force
+*International Federation of Film Archives*
+<br>
+*2019-present*
 
 ### Archives Volunteer
 *Point Richmond Historical Association, Richmond, CA*
