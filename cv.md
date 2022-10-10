@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-Here's a bit about my professional history :)
+A selected view of my professional history :)
 
 ---
 
@@ -107,13 +107,13 @@ Here's a bit about my professional history :)
 
 ## SELECTED PROFESSIONAL SKILLS AND TOOLS
 
-**Programming/Web:** Python, Bash, Apache, PHP, HTML, CSS, XML/XSLT, JSON, Flask, REST APIs
+**Programming/Web:** Python, Ruby, Bash, Apache, PHP, HTML, CSS, XML/XSLT, JSON, Flask, REST APIs
 
 **Database/Data science:** MySQL, FileMaker, SPARQL, OpenRefine, ABBYY, Tesseract
 
 **Metadata standards with a critical cataloging lens:** MARC, RDA, DACS, EAD, DC, PBCore, METS, RDF, EXIF
 
-**Metadata/CMS/DAM tools:** CollectionSpace, Piction, ArchivesSpace, Exiftool, MediaInfo, OCLC Connexion, InnovativeInterfaces Millennium Integrated Library System, MARCEdit
+**Metadata/CMS/DAM tools:** CollectionSpace, ResourceSpace, ArchivesSpace, Piction, Exiftool, MediaInfo, OCLC Connexion, InnovativeInterfaces Millennium Integrated Library System, MARCEdit, Alma
 
 **Project management:** Grant writing; In-house digitization projects; grant-funded digitization; database migrations
 
@@ -127,13 +127,13 @@ Here's a bit about my professional history :)
 
 ## SELECTED PROFESSIONAL DEVELOPMENT & PRESENTATIONS
 
+**Rare Books and Manuscripts (ACRL), Annual Conference, 2022** (panel presenter) "Tool Time: MARCompare"
+
 **Association of Moving Image Archivists, Annual Conference, 2020** (virtual poster presentation) "Preserving Top Value Television"
 
 **Media Description and Access, UCLA MLIS graduate course, Fall 2020** (guest speaker)
 
 **Film Exhibition and Curating, SF State University undergraduate film course, Fall 2020** (guest speaker)
-
-**All Together Now: Time-Based Media Art and Collaborative Stewardship Colloquium, LACMA, 2020** (presenting, postponed indefinitely due to COVID-19)
 
 **Time-based Media Panel, Registrar's Committee (Western Region), 2020** (panel presenter)
 

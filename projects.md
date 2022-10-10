@@ -7,6 +7,10 @@ vimeoID: 407474921
 
 Here are some recent personal and work projects I'm particularly fond of. I'll add more as I have time and inclination 😃
 
+[Untitled birthday series](#at-four-at-six)
+
+[Blacklight](#bampfa-customizations-to-blacklight)
+
 [heartfilm](#heartfilm-<3)
 
 [garden cycle](#garden-cycle)
@@ -14,18 +18,50 @@ Here are some recent personal and work projects I'm particularly fond of. I'll a
 [TVTV](#tvtv)
 
 ---
+# AT FOUR, AT SIX...
+
+2020, 2022
+
+Inspired by [Gunvor Nelson](https://vimeo.com/242768525), Lynne Sachs, and others, I started filming what I hope will be an ongoing series of lyrical tributes to my daughter and to our relationship as it grows and develop--as she grows into the space she will eventually fill. My heart is full <3
+
+*AT FOUR (2020)*
+
+<img src="/images/projects/at-four.jpg" width="500">
+
+*AT SIX (2022)*
+
+<img src="/images/projects/at-six.jpg" width="500">
+
+---
+
+# BAMPFA customizations to Blacklight
+
+2020-
+
+I've been working on [CineFiles](https://cinefiles.bampfa.berkeley.edu/) since I started working at BAMPFA full-time in 2013 (actually as a volunteer from 2010-2012, I clipped film reviews destined to be scanned for CineFiles...), but in 2020 we finally launched a new interface to replace the custom Java-based site that was built in 2008 and hadn't been updated significantly since.
+
+
+[Blacklight](https://github.com/projectblacklight/blacklight) is an open source "discovery interface" maintained by a consortium of developers primarily at research university libraries (Stanford, Cornell, Princeton, and now... Berkeley). It uses [solr](https://solr.apache.org/) as its search engine and is fairly agnostic about the kinds of data that can be included in a given collection. The heaviest users are major university libraries, but (thanks to [Research IT](https://research-it.berkeley.edu/) 🥺) the UC Berkeley museums started using it in 2018 or so with the Hearst Museum getting the first live instance. Working with Research IT taking the lead I was able to do a little customization to the logic (in Ruby) and a little design work and we launched the new site right at the beginning of COVID!
+
+In 2022 I also helped make a new site for the BAMPFA art [collection](https://collection.bampfa.berkeley.edu/), which I'm also pleased with. I got to do a little more code customization, and for instance there's a randomizer that refreshes the landing page with a new selection of images from the collection every time you load the page–simple, but effective!
+
+<img src="/images/projects/bampfa.png" width="800">
+
+github repo [here](https://github.com/BAM-PFA/radiance)
+
+---
 
 # heartfilm <3
 
-2020-
+2020
 
 github repo [here](https://github.com/mcampos-quinn/heartfilm)
 
 ![heartrate activated shutter trigger](/images/projects/heart.gif)
 
-In process! I also don't think the title of the film will actually be *heartfilm* but it's fine for now. This is intended for a diary/self portrait film of reflection during COVID-19. **Update** I recognized after I wrote this that my COVID reflections as a supremely privileged white-ish guy were hardly noteworthy, but I'm still looking for a way to use this technique that's engaging and rigorous (enough).
+In process! I also don't think the title of the film will actually be *heartfilm* but it's fine for now. This is intended for a diary/self portrait film of reflection during COVID-19. **Update** I recognized after I wrote this that my COVID reflections as a supremely privileged white-ish person were hardly noteworthy, but I'm still looking for a way to use this technique that's engaging and rigorous (enough).
 
-I'm using an LED pulse sensor to drive a GIPO pin on an *ItsyBitsy* microcontroller from Adafruit. When my pulse triggers the monitor, the GPIO pin goes to ground and completes the circuit on the single-frame shutter trigger. Voilà! Here's a circuit diagram:
+I'm using an LED pulse sensor to drive a GPIO pin on an Adafruit *ItsyBitsy* microcontroller. When my pulse triggers the monitor, the GPIO pin goes to ground and completes the circuit on the single-frame shutter trigger. Voilà! Here's a circuit diagram:
 
 <img src="/images/projects/heartcircuit.jpg" width="400">
 
